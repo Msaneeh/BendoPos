@@ -1,0 +1,12 @@
+.chart-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 24px;
+  animation: fadeUp .4s ease both;
+  animation-delay: .25s;
+}
+
+.chart-container {
+  position: relative;
+}
